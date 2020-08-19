@@ -1,0 +1,19 @@
+
+# model building requirements
+
+numpy>=1.18.1,<1.19.0
+pandas>=0.25.3,<0.26.0
+scikit-learn>=0.22.1,<0.23.0
+joblib>=0.14.1,<0.15.0
+tensorflow==1.15.2
+keras==2.3.0
+
+
+# testing
+
+pytest>=5.3.2,<6.0.0
+
+
+# packaging
+
+setuptools >= 41.4.0,<42.0.0
