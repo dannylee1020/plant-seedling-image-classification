@@ -1,4 +1,4 @@
-# Image Classification with ResNet 50, Streamlit, Docker and Heroku
+# Image Classification with ResNet50, Streamlit and Docker
 
 
 ## Project Overview
