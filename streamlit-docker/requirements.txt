@@ -1,0 +1,16 @@
+# streamlit
+streamlit == 0.62.1
+
+# model building requirement
+numpy>=1.18.1,<1.19.0
+pandas>=0.25.3,<0.26.0
+scikit-learn>=0.22.1,<0.23.0
+joblib>=0.14.1,<0.15.0
+tensorflow == 1.15.2
+keras == 2.3.0
+
+# image 
+opencv-python == 4.1.2.30
+Pillow == 6.2.1
+
+
